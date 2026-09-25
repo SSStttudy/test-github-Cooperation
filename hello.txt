@@ -1,2 +1,2 @@
-Hello, GitHub team!
+Hello, collaboration team!
 This file is for practicing GitHub collaboration.
