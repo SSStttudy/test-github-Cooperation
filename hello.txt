@@ -1,2 +1,2 @@
-hello !!
-test
+Hello, GitHub team!
+This file is for practicing GitHub collaboration.
